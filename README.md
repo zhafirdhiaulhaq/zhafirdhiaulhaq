@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Zhafir Dhiaulhaq
 - 👀 I’m interested in Front End & Design
-- 🌱 I’m currently learning JS & Laravel
+- 🌱 I’m currently learning JS & SASS
 - 💞️ I’m looking to collaborate on Front End Web Developer
 - 📫 tyazhafir@gmail.com
 
